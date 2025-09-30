@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\bin\Debug\(مشروع (رسائل الادخال والاخراج.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\obj\Debug\(مشروع (رسائل الادخال والاخراج.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\obj\Debug\_مشروع__رسائل_الادخال_والاخراج.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\obj\Debug\_مشروع__رسائل_الادخال_والاخراج.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\obj\Debug\(مشروع (رسائل الادخال والاخراج.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\obj\Debug\(مشروع (رسائل الادخال والاخراج.xml
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\bin\Debug\(مشروع (رسائل الادخال والاخراج.exe
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\bin\Debug\(مشروع (رسائل الادخال والاخراج.pdb
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\bin\Debug\(مشروع (رسائل الادخال والاخراج.xml
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\obj\Debug\(مشروع (رسائل الادخال والاخراج.exe
+c:\users\dell\documents\visual studio 2015\Projects\(مشروع (رسائل الادخال والاخراج\(مشروع (رسائل الادخال والاخراج\obj\Debug\(مشروع (رسائل الادخال والاخراج.pdb
